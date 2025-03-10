@@ -3,6 +3,8 @@ Name : SARANYA V
 
 Reg no : 212223040188
 
+Date of Experiment : 10/03/2025
+
 ## Aim:
 To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required:
