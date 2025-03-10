@@ -3,8 +3,6 @@ Name : SARANYA V
 
 Reg no : 212223040188
 
-Date of experiment : 10-03-2025
-
 ## Aim:
 To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required:
@@ -39,7 +37,7 @@ ADD AL,BL
 HLT
 ```
 ## Output  
-
+ ![ADDEX](https://github.com/JananiSoundararajan/EXPERIMENT--01-ALP-FOR-8086/assets/119477549/9b3a7e31-db56-4c0e-9b59-43fe21ab0371)
 
 ## Subtraction  of 8 bit numbers  ALP 
 ```assembly
@@ -49,7 +47,7 @@ SUB AL,BL
 HLT
 ``` 
 ## Output 
-
+![SUBEX](https://github.com/JananiSoundararajan/EXPERIMENT--01-ALP-FOR-8086/assets/119477549/fcb56b58-d90f-4cf2-850d-85c531d9862c)
 
 ## Multiplication of 8 bit numbers  ALP
 ```assembly
@@ -59,7 +57,7 @@ MUL BL
 HLT
 ```
 ## Output  
-
+![MULEX](https://github.com/JananiSoundararajan/EXPERIMENT--01-ALP-FOR-8086/assets/119477549/d5f842ca-8113-4380-9948-2dd4089cb605)
 
 ## Division of 8 bit numbers  ALP
 ```assembly
@@ -69,7 +67,7 @@ DIV BL
 HLT
 ```
 ## Output  
-
+![DIV EX](https://github.com/JananiSoundararajan/EXPERIMENT--01-ALP-FOR-8086/assets/119477549/b34c43fd-318d-4df8-995b-d4357456f886)
 
 ## And of 8 bit numbers ALP
 ```assembly
@@ -79,7 +77,7 @@ AND AL,BL
 HLT
 ```
 ## Output
-
+![ANDEX](https://github.com/JananiSoundararajan/EXPERIMENT--01-ALP-FOR-8086/assets/119477549/137f8c67-17d9-4cc2-8437-349d50e0a404)
 
 ## OR of 8 bit numbers ALP
 ```assembly
@@ -89,7 +87,7 @@ OR AL,BL
 HLT
 ```
 ## Output
-
+![OR EX](https://github.com/JananiSoundararajan/EXPERIMENT--01-ALP-FOR-8086/assets/119477549/d9fce991-bce0-4c58-a77c-2de3216f302d)
 
 ## NOT of 8 bit number ALP
 ```assembly
@@ -98,7 +96,7 @@ NOT AL
 HLT
 ```
 ## Output
-
+![NOT EX](https://github.com/JananiSoundararajan/EXPERIMENT--01-ALP-FOR-8086/assets/119477549/a7efe90e-2100-4df5-8298-3516af3b7f65)
 
 ## XOR of 8 bit number ALP
 ```assembly
@@ -109,9 +107,16 @@ HLT
 ```
 
 ## Output
-
+![XOREX](https://github.com/JananiSoundararajan/EXPERIMENT--01-ALP-FOR-8086/assets/119477549/838fcf0e-3db2-4d6c-a9b6-0607b839726d)
 
 ## Result :
 
 The execution of ALP on fundamental arithmetic and logical operations is successfully completed.
+
+
+
+
+
+
+
 
